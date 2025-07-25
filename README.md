@@ -42,7 +42,7 @@ CoinTicker is an asset tracker, written in Python, developed for Waybar, and it 
 
 ## Configuration
 
-CoinTicker creates by itself a configuration file at start up after finishing the execution with the `init` parameter. For Linux it's necessary after changing the configuration manually to execute the `update` parameter to apply the settings. Use `reset` for deleting the current configuration.   
+CoinTicker creates by itself a configuration file at start up after finishing the execution with the `init` argument. For Linux it's necessary after changing the configuration manually to execute the programe with the argument `update` to apply the settings. Use `reset` for deleting the current configuration.   
 
 ## Credits
 
